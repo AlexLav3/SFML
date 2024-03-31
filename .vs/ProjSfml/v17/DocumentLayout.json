@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\c\u002B\u002B\\SFML_First_Try\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T19:23:13.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
