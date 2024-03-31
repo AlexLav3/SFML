@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "B:\\c\u002B\u002B\\SFML_First_Try\\SFML\\First_SFML\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1F0EB8-022C-4DEC-B678-0DF4BAAD16BF}|First_SFML.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\SFML\\First_SFML\\First_SFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7E1F0EB8-022C-4DEC-B678-0DF4BAAD16BF}|First_SFML.vcxproj|solutionrelative:First_SFML.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First_SFML.cpp",
+              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\SFML\\First_SFML\\First_SFML.cpp",
+              "RelativeDocumentMoniker": "First_SFML.cpp",
+              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\SFML\\First_SFML\\First_SFML.cpp",
+              "RelativeToolTip": "First_SFML.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-31T18:51:52.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
