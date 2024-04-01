@@ -1,2 +1,19 @@
-﻿  main.cpp
+﻿  animation.cpp
+B:\c++\SFML_First_Try\animation.cpp(8,19): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+B:\c++\SFML_First_Try\animation.cpp(10,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+B:\c++\SFML_First_Try\animation.cpp(11,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  main.cpp
+  Generating Code...
   ProjSfml.vcxproj -> B:\c++\SFML_First_Try\x64\Debug\ProjSfml.exe
