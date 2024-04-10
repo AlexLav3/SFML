@@ -2,16 +2,16 @@
 
 #include <SFML\Graphics.hpp>
 
-class animation
+class Animation
 {
 
 public: 
 
-	animation(sf::Texture*texture, sf::Vector2u imageCount, float switchTime);
+	Animation(sf::Texture*texture, sf::Vector2u imageCount, float switchTime);
 	
 	sf::IntRect uvRect; 
 
-	void Update(int row, float deltaTIme); 
+	void Update(int row, float deltaTIme, bool FaceRight); 
 
 private: 
 
