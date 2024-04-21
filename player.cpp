@@ -11,6 +11,7 @@ animation(texture,imageCount,switchTime)
 	body.setPosition(206.0f, 206.0f); 
 	body.setTexture(texture);
 
+	body.setOrigin(body.getSize()/2.0f); 
 
 }
 

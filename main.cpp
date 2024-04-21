@@ -6,6 +6,7 @@
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(512, 512), "SFML Tutorial", sf::Style::Default ); 
+    sf::View view(sf::Vector2f(0.0f, 0.0f), sf::Vector2f(512.0f,512.0f));
     sf::Texture playerTexture; 
     playerTexture.loadFromFile("wolfsheet3.png"); 
 
@@ -20,6 +21,10 @@ int main()
 
         sf::Event evnt; 
         while (window.pollEvent(evnt)) {
+
+            if (sf::Keyboard::isKeyPressed(sf::Keyboard::Escape)) {
+                window.close();
+            }
 
             switch (evnt.type) {
 
@@ -41,8 +46,10 @@ int main()
             }
         }
         player.Update(deltaTime); 
+        view.setCenter(player.GetPosition()); 
 
         window.clear(); 
+        window.setView(view); 
         player.Draw(window); 
         window.display(); 
     }

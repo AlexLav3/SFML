@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|B:\\c\u002B\u002B\\SFML_First_Try\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AD1FD0C-F319-4A58-9971-22120B6FA56B}|ProjSfml.vcxproj|solutionrelative:player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,58 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "player.cpp",
-              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\player.cpp",
-              "RelativeDocumentMoniker": "player.cpp",
-              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\player.cpp",
-              "RelativeToolTip": "player.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-10T13:19:14.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "player.h",
               "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\player.h",
               "RelativeDocumentMoniker": "player.h",
               "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\player.h",
               "RelativeToolTip": "player.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-10T13:15:34.501Z",
+              "WhenOpened": "2024-04-19T13:41:46.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "animation.cpp",
-              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\animation.cpp",
-              "RelativeDocumentMoniker": "animation.cpp",
-              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\animation.cpp",
-              "RelativeToolTip": "animation.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Title": "player.cpp",
+              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\player.cpp",
+              "RelativeDocumentMoniker": "player.cpp",
+              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\player.cpp",
+              "RelativeToolTip": "player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-01T20:40:09.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "animation.h",
-              "DocumentMoniker": "B:\\c\u002B\u002B\\SFML_First_Try\\animation.h",
-              "RelativeDocumentMoniker": "animation.h",
-              "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\animation.h",
-              "RelativeToolTip": "animation.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-01T20:34:26.393Z",
+              "WhenOpened": "2024-04-19T13:41:41.701Z",
               "EditorCaption": ""
             },
             {
@@ -92,9 +58,9 @@
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "B:\\c\u002B\u002B\\SFML_First_Try\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-31T19:23:13.393Z",
+              "WhenOpened": "2024-04-19T13:34:04.318Z",
               "EditorCaption": ""
             }
           ]
