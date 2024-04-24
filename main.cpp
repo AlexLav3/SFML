@@ -3,10 +3,20 @@
 #include "animation.h"
 #include "player.h"
 
+static const float VIEW_HEIGHT = 512.0f; 
+
+void ReSizeView(const sf::RenderWindow& window, sf::View &view) {
+
+    float aspectRatio = float(window.getSize().x)/float (window.getSize().y);
+
+    view.setSize(VIEW_HEIGHT*aspectRatio,VIEW_HEIGHT);
+}
+
+
 int main()
 {
     sf::RenderWindow window(sf::VideoMode(512, 512), "SFML Tutorial", sf::Style::Default ); 
-    sf::View view(sf::Vector2f(0.0f, 0.0f), sf::Vector2f(512.0f,512.0f));
+    sf::View view(sf::Vector2f(VIEW_HEIGHT, VIEW_HEIGHT), sf::Vector2f(VIEW_HEIGHT, VIEW_HEIGHT));
     sf::Texture playerTexture; 
     playerTexture.loadFromFile("wolfsheet3.png"); 
 
@@ -33,15 +43,14 @@ int main()
                 break;
 
             case sf::Event::Resized: 
-
-                std::cout << evnt.size.width << evnt.size.height << std::endl; 
-                printf("New Window width : %i New Window Height : %i \n", evnt.size.width, evnt.size.height);
+                ReSizeView(window,view);  
                 break; 
 
             case sf::Event::TextEntered: 
                 if (evnt.text.unicode < 128) {
                     printf("%c", evnt.text.unicode);
                 }
+
 
             }
         }
